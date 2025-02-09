@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snag05gmail
-- 👀 I’m interested in Rust, Python, GCP, Kubernetes and Microservices
-- 🌱 I’m currently learning Rust and GCP
+- 👀 I’m interested in AI, Python
+- 🌱 I’m currently learning AI using Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
